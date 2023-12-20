@@ -18,8 +18,8 @@ A Database model representation of modeling and managing financial expenses.
 ```
 cd expense-db
 ```
-- In the main.py file, the Expense and ExpenseDatabase and uuid has already been imported.
-- Add code to utilize the ExpenseDatabase and Expense methods
+- In the main.py file, the Expense and ExpenseDatabase classes and uuid module has already been imported.
+- Add code to utilize the ExpenseDatabase class and Expense class methods
 - Run `python main.py` to test the project
 
 ### Usage
